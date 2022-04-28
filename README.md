@@ -1,3 +1,3 @@
 # Slot machine
 
-Copyright Gerson Laporta and Vicente Mateu Al Attrach
+Copyright Gerson Laporta and Vicente Mateu  Al Attrach
